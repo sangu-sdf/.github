@@ -1,7 +1,5 @@
 ## Software Development Fundamentals — Course Overview
 
----
-
 ## Introduction
 
 Welcome to **Software Development Fundamentals (SDF)**. This course bridges the gap between writing code that *works* and building software *professionally*. Writing correct code is only the beginning — real-world development demands clean design, robust error handling, version control, automated testing, and reliable deployment.
