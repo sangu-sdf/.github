@@ -26,8 +26,8 @@ The course is split into two halves, separated by a midterm exam.
 
 | # | Topic | What You'll Learn |
 |---|---|---|
-| 1 | **Clean Coding** | Naming, SRP, SOLID principles, coding conventions |
-| 2 | **Error Handling & Debugging** | Exceptions (`try`/`catch`/`finally`), breakpoints, step-through debugging |
+| 1 | [**Clean Coding**](https://github.com/sangu-sdf/.github/blob/main/profile/01-clean-coding.md) | Naming, SRP, SOLID principles, coding conventions |
+| 2 | [**Error Handling & Debugging**](https://github.com/sangu-sdf/.github/blob/main/profile/02-error-handling-and-debugging.md) | Exceptions (`try`/`catch`/`finally`), breakpoints, step-through debugging |
 | 3 | **Git #1** | Repos, commits, push/pull, GitHub basics |
 | 4 | **Git #2** | Branching, merging, rebasing, resolving conflicts |
 | 5 | **Documentation** | Javadoc, code comments, GitHub Pages |
