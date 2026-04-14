@@ -31,7 +31,7 @@ The course is split into two halves, separated by a midterm exam.
 | 3 | [**Git #1**](https://github.com/sangu-sdf/.github/blob/main/profile/03-git-and-github-part-1.md) | Repos, commits, push/pull, GitHub basics |
 | 4 | [**Git #2**](https://github.com/sangu-sdf/.github/blob/main/profile/04-git-and-github-part-2.md) | Branching, merging, rebasing, resolving conflicts |
 | 5 | [**Documentation**](https://github.com/sangu-sdf/.github/blob/main/profile/05-documenting-code.md) | Javadoc, code comments, GitHub Pages |
-| 6 | **Logging** | Log levels, logging frameworks, best practices |
+| 6 | [**Logging**](https://github.com/sangu-sdf/.github/blob/main/profile/06-logging.md) | Log levels, logging frameworks, best practices |
 
 ### Second Half: Testing, Methodology, and Deployment
 
