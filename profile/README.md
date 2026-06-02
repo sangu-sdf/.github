@@ -40,7 +40,7 @@ The course is split into two halves, separated by a midterm exam.
 | 7 | [**TDD & Unit Testing**](https://github.com/sangu-sdf/.github/blob/main/profile/07-testing.md) | JUnit, Red-Green-Refactor cycle |
 | 8 | [**Software Management**](https://github.com/sangu-sdf/.github/blob/main/profile/08-software-project-management.md) | Scrum, Kanban, GitHub Projects |
 | 9 | **SDLC Models** | Agile, Waterfall, and when to use each |
-| 10 | **Docker #1** | Containers, Dockerfiles, images |
+| 10 | [**Docker #1**](https://github.com/sangu-sdf/.github/blob/main/profile/09-docker-part-1.md) | Containers, Dockerfiles, images |
 | 11 | **Docker #2** | Multi-container apps with Docker Compose |
 | 12 | **CI/CD** | Automated build, test, and deploy pipelines |
 
