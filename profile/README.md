@@ -42,7 +42,7 @@ The course is split into two halves, separated by a midterm exam.
 | 9 | **SDLC Models** | Agile, Waterfall, and when to use each |
 | 10 | [**Docker #1**](https://github.com/sangu-sdf/.github/blob/main/profile/09-docker-part-1.md) | Containers, Dockerfiles, images |
 | 11 | [**Docker #2**](https://github.com/sangu-sdf/.github/blob/main/profile/10-docker-part-2.md) | Multi-container apps with Docker Compose |
-| 12 | **CI/CD** | Automated build, test, and deploy pipelines |
+| 12 | [**CI/CD**](https://github.com/sangu-sdf/.github/blob/main/profile/11-cicd-using-github-actions.md) | Automated build, test, and deploy pipelines |
 
 ---
 
